@@ -1,6 +1,6 @@
 # Подключение плат ESP32 в Arduino
 
-Для того, чтобы добавить поддержку плат ESP32 в Arduino IDE, необходимо подключить библиотеку [Arduino-ESP32](https://github.com/espressif/arduino-esp32). Для этого откройте параметры(Ctrl + ,).
+Для того, чтобы добавить поддержку плат ESP32 в Arduino IDE, необходимо подключить библиотеку [Arduino-ESP32](https://github.com/espressif/arduino-esp32). Для этого откройте "Параметры"(Ctrl + ,).
 
 ![параметры](/pic/arduino01.png)
 
