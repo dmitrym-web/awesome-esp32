@@ -18,18 +18,18 @@ ESP32 создан и разработан компанией, располож�
 [Публикации](#публикации)
 
 ## Решения
-| Решение                          | Сайт | Докуметация | Код |
-|----------------------------------|------|-------------|-----|
-| Artificial intelligence          |      |             |     |
-| AT application                   |      |             |     |
-| Audio development framework      |      |             |     |
-| BLE Mesh development framework   |      |             |     |
-| Camera application               |      |             |     |
-| ESP Matter                       |      |             |     |
-| ESP-NOW                          |      |             |     |
-| ESP RainMaker cloud service      |      |             |     |
-| Third party cloud service        |      |             |     |
-| Wi-Fi Mesh development framework |      |             |     |
+| Решение                          | Сайт                                                                            | Докуметация                                                                                               | Код                                                  |
+|----------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| Artificial intelligence          |                                                                                 |                                                                                                           |                                                      |
+| AT application                   |                                                                                 |                                                                                                           |                                                      |
+| Audio development framework      |                                                                                 |                                                                                                           |                                                      |
+| BLE Mesh development framework   |                                                                                 |                                                                                                           |                                                      |
+| Camera application               |                                                                                 |                                                                                                           |                                                      |
+| ESP Matter                       |                                                                                 |                                                                                                           |                                                      |
+| ESP-NOW                          | [ESP-NOW](https://www.espressif.com/en/solutions/low-power-solutions/esp-now)   | [Docs](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/api-reference/network/esp_now.html)  | [GitHub](https://github.com/espressif/esp-now)       |
+| ESP RainMaker cloud service      |                                                                                 |                                                                                                           |                                                      |
+| Third party cloud service        |                                                                                 |                                                                                                           |                                                      |
+| Wi-Fi Mesh development framework | [Wi-Fi Mesh](https://www.espressif.com/en/products/sdks/esp-wifi-mesh/overview) | [Docs](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/esp-wifi-mesh.html)         | [GitHub](https://github.com/espressif/esp-mesh-lite) |
 
 ## Аппаратное обеспечение
 
@@ -44,5 +44,7 @@ ESP32 создан и разработан компанией, располож�
 ## Проекты
 
 ## Публикации
+
+[Подключение плат ESP32 в Arduino](docs/ARDUINO.md)
 
 ## Прочти меня
