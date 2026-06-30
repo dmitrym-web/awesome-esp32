@@ -28,3 +28,10 @@ ESP32 создан и разработан компанией, располож�
 ## Аппаратное обеспечение
 
 ## Программное обеспечение
+| Решение                          | Сайт                                                                   |                                Докуметация                                 | Код                                                     |
+|----------------------------------|------------------------------------------------------------------------|:--------------------------------------------------------------------------:|---------------------------------------------------------|
+| ESP-IDF                          | [ESP-IDF](https://developer.espressif.com/tags/esp-idf/)               |    [Docs](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)    | [GitHub](https://github.com/espressif/esp-idf)          |
+| Arduino                          | [Arduino for Espressif](https://www.espressif.com/en/sdks/esp-arduino) |    [Docs](https://docs.espressif.com/projects/arduino-esp32/en/latest/)    | [GitHub](https://github.com/espressif/arduino-esp32)    |
+| Zephyr                           | [Zephyr® RTOS](https://www.espressif.com/en/sdks/esp-zephyr)           | [Official documentation](https://docs.zephyrproject.org/latest/index.html) | [GitHub](https://github.com/zephyrproject-rtos/zephyr)  |
+| Rust                             | [Rust]()                                                               |           [Docs](https://docs.espressif.com/projects/rust/book/)           | [Awesome](https://github.com/esp-rs/awesome-esp-rust)   |
+
