@@ -18,18 +18,38 @@ ESP32 создан и разработан компанией, располож�
 [Публикации](#публикации)
 
 ## Решения
-| Решение                          | Сайт                                                                                         | Докуметация                                                                                                                      | Код                                                  |
-|----------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
-| Artificial intelligence          |                                                                                              |                                                                                                                                  |                                                      |
-| AT application                   |                                                                                              |                                                                                                                                  |                                                      |
-| Audio development framework      |                                                                                              |                                                                                                                                  |                                                      |
-| BLE Mesh development framework   | [BLE Mesh](https://www.espressif.com/en/products/sdks/esp-idf/esp-ble-mesh)                  | [Docs](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/esp-ble-mesh/ble-mesh-index.html#getting-started)  |                                                      |
-| Camera application               |                                                                                              |                                                                                                                                  |                                                      |
-| ESP Matter                       | [ESP Matter](https://www.espressif.com/en/solutions/device-connectivity/esp-matter-solution) |                                                                                                                                  | [GitHub](https://github.com/espressif/esp-matter)    |
-| ESP-NOW                          | [ESP-NOW](https://www.espressif.com/en/solutions/low-power-solutions/esp-now)                | [Docs](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/api-reference/network/esp_now.html)                         | [GitHub](https://github.com/espressif/esp-now)       |
-| ESP RainMaker cloud service      |                                                                                              |                                                                                                                                  |                                                      |
-| Third party cloud service        |                                                                                              |                                                                                                                                  |                                                      |
-| Wi-Fi Mesh development framework | [Wi-Fi Mesh](https://www.espressif.com/en/products/sdks/esp-wifi-mesh/overview)              | [Docs](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/esp-wifi-mesh.html)                                | [GitHub](https://github.com/espressif/esp-mesh-lite) |
+| Решение                                                              | Сайт                                                                                         | Докуметация                                                                                                                      | Код                                                  |
+|----------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| [Artificial intelligence](#artificial-intelligence)                  |                                                                                              |                                                                                                                                  |                                                      |
+| [AT application](#at-application)                                    |                                                                                              |                                                                                                                                  |                                                      |
+| [Audio development framework](#audio-development-framework)          |                                                                                              |                                                                                                                                  |                                                      |
+| [BLE Mesh development framework](#ble-mesh-development-framework)    | [BLE Mesh](https://www.espressif.com/en/products/sdks/esp-idf/esp-ble-mesh)                  | [Docs](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/esp-ble-mesh/ble-mesh-index.html#getting-started)  |                                                      |
+| [Camera application](#camera-application)                            |                                                                                              |                                                                                                                                  |                                                      |
+| [ESP Matter](#esp-matter)                                            | [ESP Matter](https://www.espressif.com/en/solutions/device-connectivity/esp-matter-solution) |                                                                                                                                  | [GitHub](https://github.com/espressif/esp-matter)    |
+| [ESP-NOW](#esp-now)                                                  | [ESP-NOW](https://www.espressif.com/en/solutions/low-power-solutions/esp-now)                | [Docs](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/api-reference/network/esp_now.html)                         | [GitHub](https://github.com/espressif/esp-now)       |
+| [ESP RainMaker cloud service](#esp-rainmaker-cloud-service)          |                                                                                              |                                                                                                                                  |                                                      |
+| [Third party cloud service](#third-party-cloud-service)              |                                                                                              |                                                                                                                                  |                                                      |
+| [Wi-Fi Mesh development framework](#wi-fi-mesh-development-framewor) | [Wi-Fi Mesh](https://www.espressif.com/en/products/sdks/esp-wifi-mesh/overview)              | [Docs](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/esp-wifi-mesh.html)                                | [GitHub](https://github.com/espressif/esp-mesh-lite) |
+
+### Artificial intelligence
+
+### AT application
+
+### Audio development framework
+
+### BLE Mesh development framework
+
+### Camera application
+
+### ESP Matter
+
+### ESP-NOW
+
+### ESP RainMaker cloud service
+
+### Third party cloud service
+
+### Wi-Fi Mesh development framewor
 
 ## Аппаратное обеспечение
 
