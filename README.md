@@ -261,8 +261,6 @@ ACK SDK for Matter
 
 [Подключение плат ESP32 в Arduino](docs/ARDUINO.md)
 
-[ESP Matter Tutorial](https://github.com/make2explore/esp32-Matter)
-
 ## Прочти меня
 
 ## Глоссарий
