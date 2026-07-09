@@ -59,6 +59,43 @@ ESP32 создан и разработан компанией, располож�
 
 ### ESP Matter
 
+[Matter](https://ru.wikipedia.org/wiki/Matter_(%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82)) - единый стандарт подключения 
+для умного дома с открытым исходным кодом, который позволяет объединять IoT-устройства разных производителей в единую сеть.
+Стандарт работает на основе интернет-протокола (IP) и функционирует через один или несколько контроллеров (хабов), 
+которые соединяют разнородные IoT-устройства в единую сеть и обрабатывают запросы. Продукты, сертифицированные Matter, 
+спроектированы для локальной работы, то есть могут работать и без подключения к Интернету. Для гарантированного взаимодействия 
+всех Matter-совместимых устройств необходим такой контроллер (хаб), который на аппаратном уровне имеет реализацию одновременно 
+Wi-Fi, Bluetooth LE (BLE) и Thread(более 802.15.4 радио) с Bluetooth LE, тем самым контроллер связывает устройства, 
+работающие на всех этих трёх технологиях, в единую локальную сеть. 
+
+[CSA](https://csa-iot.org/ru/)
+
+[CSA Matter](https://csa-iot.org/ru/all-solutions/matter/)
+
+[CSA Спецификация](https://csa-iot.org/ru/developer-resource/specifications-download-request/)
+
+[Home Assistant интеграция](https://www.home-assistant.io/integrations/matter/)
+
+**[ESP32(https://www.espressif.com/en/solutions/device-connectivity/esp-matter-solution)]**
+
+ - Wi-Fi End Device - модули с поддержкой Wi-Fi, из серии ESP32, ESP32-C и ESP32-S, могут использоваться для создания устройств Wi-Fi, совместимых с Matter.
+ - Thread End Device - ESP32-H и модули, поддерживающие IEEE 802.15.4, могут использоваться для создания Matter-совместимых с Thread End устройств.
+ - Ethernet End Device - ESP32 и ESP32-S могут использоваться для создания Ethernet контроллеров, совместимых с совместимых с Matter. Устройства серии ESP32-S должны использовать внешний контроллер Ethernet для обеспечения подключения Ethernet.
+ - Thread Border Router - объединяя ESP32-H и ESP32-S3 или другие микроконтроллеры, например, ESP32, для подключения сетей Thread к сетям Wi-Fi может быть построен пограничный маршрутизатор Thread.
+ - Matter Bridge - объединяя ESP32-H и ESP32-S3 или другие микроконтроллеры, например, ESP32, можно создать мост Matter-Zigbee для объединения сетей, не использующих Matter.
+
+[Open-Source Matter SDK](https://github.com/project-chip/connectedhomeip)
+
+![](/pic/open-source-matter-sdk.png)
+
+[Espressif’s SDK for Matter](https://github.com/espressif/esp-matter)
+
+![](/pic/matter-sdk.png)
+
+ACK SDK for Matter
+
+Модули ESP-ZeroCode основаны на ESP32-C3 (ESP8685), ESP32-C2 (ESP8684) и ESP32-H2ESP32-H2.
+
 ### ESP-NOW
 
 ### ESP RainMaker cloud service
