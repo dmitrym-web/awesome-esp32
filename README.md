@@ -92,6 +92,8 @@ Wi-Fi, Bluetooth LE (BLE) и Thread(более 802.15.4 радио) с Bluetooth
 
 ![](/pic/matter-sdk.png)
 
+[Docs](https://developer.espressif.com/blog/matter/)
+
 ACK SDK for Matter
 
 Модули ESP-ZeroCode основаны на ESP32-C3 (ESP8685), ESP32-C2 (ESP8684) и ESP32-H2ESP32-H2.
