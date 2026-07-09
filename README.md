@@ -76,7 +76,7 @@ Wi-Fi, Bluetooth LE (BLE) и Thread(более 802.15.4 радио) с Bluetooth
 
 [Home Assistant интеграция](https://www.home-assistant.io/integrations/matter/)
 
-**[ESP32(https://www.espressif.com/en/solutions/device-connectivity/esp-matter-solution)]**
+**[ESP32](https://www.espressif.com/en/solutions/device-connectivity/esp-matter-solution)**
 
  - Wi-Fi End Device - модули с поддержкой Wi-Fi, из серии ESP32, ESP32-C и ESP32-S, могут использоваться для создания устройств Wi-Fi, совместимых с Matter.
  - Thread End Device - ESP32-H и модули, поддерживающие IEEE 802.15.4, могут использоваться для создания Matter-совместимых с Thread End устройств.
