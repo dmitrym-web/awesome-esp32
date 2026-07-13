@@ -41,7 +41,7 @@ ESP32 создан и разработан компанией, располож�
 | [Audio development framework](#audio-development-framework)          |                                                                                              |                                                                                                                                 |                                                      |
 | [BLE Mesh development framework](#ble-mesh-development-framework)    | [BLE Mesh](https://www.espressif.com/en/products/sdks/esp-idf/esp-ble-mesh)                  | [Docs](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/esp-ble-mesh/ble-mesh-index.html#getting-started) |                                                      |
 | [Camera application](#camera-application)                            |                                                                                              |                                                                                                                                 |                                                      |
-| [ESP Matter](#esp-matter)                                            | [ESP Matter](https://www.espressif.com/en/solutions/device-connectivity/esp-matter-solution) | [Docs] (https://docs.espressif.com/projects/esp-matter/en/latest/esp32/)                                                        | [GitHub](https://github.com/espressif/esp-matter)    |
+| [ESP Matter](#esp-matter)                                            | [ESP Matter](https://www.espressif.com/en/solutions/device-connectivity/esp-matter-solution) | [Docs](https://docs.espressif.com/projects/esp-matter/en/latest/esp32/)                                                         | [GitHub](https://github.com/espressif/esp-matter)    |
 | [ESP-NOW](#esp-now)                                                  | [ESP-NOW](https://www.espressif.com/en/solutions/low-power-solutions/esp-now)                | [Docs](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/api-reference/network/esp_now.html)                        | [GitHub](https://github.com/espressif/esp-now)       |
 | [ESP RainMaker cloud service](#esp-rainmaker-cloud-service)          |                                                                                              |                                                                                                                                 |                                                      |
 | [Third party cloud service](#third-party-cloud-service)              |                                                                                              |                                                                                                                                 |                                                      |
@@ -262,5 +262,6 @@ ACK SDK for Matter
 [Подключение плат ESP32 в Arduino](docs/ARDUINO.md)
 
 ## Прочти меня
+
 
 ## Глоссарий
