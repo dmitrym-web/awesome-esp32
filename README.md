@@ -288,7 +288,96 @@
 
 ## Проекты
 
-*(раздел для заполнения — примеры open-source проектов на ESP32)*
+> Подборка проверенных open-source проектов на ESP32, сгруппированных по областям применения.
+
+### Умный дом и IoT
+
+| Проект | Описание | Ключевые особенности | Ссылка |
+|--------|----------|---------------------|--------|
+| **Home-Fi** | Система домашней автоматизации с приложением на Flutter, Adafruit IO и ESP32 | Красивый UI на Flutter, облачная интеграция, управление реле | [GitHub](https://github.com/sakthiharish05/Home-Fi) |
+| **ESP32-MQTT-IR-PIR-OTA-NTP** | Панель реле с MQTT, ИК, PIR, NTP и OTA для Home Assistant | Полнофункциональная панель управления, интеграция с HA | [GitHub](https://github.com/codenamekraken/ESP32-MQTT-IR-PIR-OTA-NTP-switches) |
+| **cplug** | Умная розетка на ESP32 с реле и веб-интерфейсом | Веб-API, I2C LCD для статуса, управление реле | [GitHub](https://github.com/OGD09/cplug) |
+| **ESP32-coding** | Коллекция проектов IoT и домашней автоматизации | Голосовое управление (Alexa/Google), Blynk, мониторинг воды и газа | [GitHub](https://github.com/Jarenas-py/ESP32-coding) |
+| **deskgarden** | Цифровой ботанический террариум с ESP-NOW mesh на ESP32-C6 | Процедурные L-системы, синхронизация погоды, mesh-сеть | [GitHub](https://github.com/CircuitGhost/deskgarden) |
+
+### Камеры и компьютерное зрение
+
+| Проект | Описание | Ключевые особенности | Ссылка |
+|--------|----------|---------------------|--------|
+| **ESP32-CAM WebServer** | Расширенная версия веб-камеры от Espressif | Настройка через веб, потоковая передача, MJPEG | [GitHub](https://github.com/easytarget/esp32-cam-webserver) |
+| **Esp32Cam-DoorBell** | Умный дверной звонок с камерой и Telegram | Отправка фото в Telegram и email при обнаружении движения | [GitHub](https://github.com/kXborg/Esp32Cam-DoorBell) |
+| **ESP32-AI-CAMERA** | Умная камера на ESP32-S3 с LVGL | AI-обработка на устройстве, дисплей LVGL | [GitHub](https://github.com/tejaspatelll/ESP32-AI-CAMERA) |
+| **esp32-cam-rtsp** | RTSP-сервер для ESP32-CAM | Потоковая передача видео по RTSP, настраиваемое разрешение | [GitHub](https://github.com/rzeldent/esp32cam-rtsp) |
+
+### Аудио и голосовые ассистенты
+
+| Проект | Описание | Ключевые особенности | Ссылка |
+|--------|----------|---------------------|--------|
+| **ESP32-audioI2S** | Воспроизведение MP3 с SD-карты через I2S | Поддержка MP3, FLAC, AAC, WAV; Arduino-библиотека | [GitHub](https://github.com/schreibfaul1/ESP32-audioI2S) |
+| **esp32-bt-mp3-player** | Bluetooth A2DP MP3/FLAC-плеер с OLED и SD | Bluetooth-приёмник, OLED-дисплей, SD-карта | [GitHub](https://github.com/sulfurvinter/esp32-bt-mp3-player) |
+| **ESPuino** | RFID-управляемый музыкальный плеер на ESP32 | Управление RFID-метками, I2S-аудио, SD-карта | [GitHub](https://github.com/biologist79/ESPuino) |
+| **esp32-usb-uac-experiments** | Эксперименты с USB Audio Class на ESP32-S3 | USB-микрофон/динамик, обработка аудио | [GitHub](https://github.com/atomic14/esp32-usb-uac-experiments) |
+
+### Робототехника
+
+| Проект | Описание | Ключевые особенности | Ссылка |
+|--------|----------|---------------------|--------|
+| **Spiderbot** | Квадрупед-паук на Rust с Wi-Fi управлением | 12 DOF, обратная кинематика, Rust + Embassy | [GitHub](https://github.com/Axel-ex/Spiderbot) |
+| **Robotic-Snake** | Модульный робот-змея с 8+ походками | Bluepad32 геймпад, ToF-сенсоры, автономная навигация | [GitHub](https://github.com/Harjotraith04/Robotic-Snake) |
+| **OpenCatEsp32** | Open-source фреймворк для четвероногих роботов | Boston Dynamics-стиль, STEM-образование, DIY-киты | [GitHub](https://github.com/PetoiCamp/OpenCatEsp32) |
+| **ESP32-Robotic-Arm** | 3-DOF роботизированная рука с OpenCV | Веб-управление, автономный захват объектов по цвету | [GitHub](https://github.com/silentneuron/ESP32-Robotic-Arm) |
+
+### Игры и развлечения
+
+| Проект | Описание | Ключевые особенности | Ссылка |
+|--------|----------|---------------------|--------|
+| **esp32-gameos** | Портативная игровая ОС для ESP32 | Лаунчер + 6 процедурно-генерируемых игр | [GitHub](https://github.com/s0lness/awesome-esp32) |
+| **RetroESP32-P4** | Ретро-игровая платформа на ESP32-P4 | 15 игровых консолей, PC-шутеры | [GitHub](https://github.com/giltal/RetroESP32-P4) |
+| **esp32-emu-turbo** | Портативная консоль для NES/SNES на ESP32-S3 | Эмуляция NES/SNES, ILI9488 LCD, USB-C | [GitHub](https://github.com/pjcau/esp32-emu-turbo) |
+| **Galagino** | Мини-аркадный автомат на ESP32 | Pac-Man, Galaga, Donkey Kong и др. | [GitHub](https://github.com/s0lness/awesome-esp32) |
+
+### E-Ink и дисплеи
+
+| Проект | Описание | Ключевые особенности | Ссылка |
+|--------|----------|---------------------|--------|
+| **esp32-photoframe** | E-ink фоторамка с поддержкой 13.3" цветного дисплея | E Ink Spectra 6, microSD, RTC, датчик температуры | [GitHub](https://github.com/aitjcize/esp32-photoframe) |
+| **ereader** | E-reader на ESP32-S3 с 5.76" E-paper | Game Boy/NES сервер, Pokemon-дашборд | [GitHub](https://github.com/AllanBinder/ereader) |
+| **eink-esp-display** | E-ink дашборд с Waveshare ESP32 и 7.5" дисплеем | Интеграция с Grafana, погодный виджет | [GitHub](https://github.com/niki-on-github/eink-esp-display) |
+| **weather-crow** | Погодная станция на ESP32-S3 с E-paper | Прогноз погоды, настройка через веб | [GitHub](https://github.com/kotamorishi/weather-crow) |
+
+### Связь и сети (LoRa, Meshtastic, ESP-NOW)
+
+| Проект | Описание | Ключевые особенности | Ссылка |
+|--------|----------|---------------------|--------|
+| **Meshtastic** | Оффлайн mesh-сеть на LoRa | Шифрованная связь, децентрализованная сеть | [GitHub](https://github.com/meshtastic) |
+| **lora-esp32** | Настраиваемая LoRa-система на ESP32/ESP32-S3 | Веб-интерфейс, мониторинг в реальном времени | [GitHub](https://github.com/vpuhoff/lora-esp32) |
+| **LoRa_APRS_iGate** | LoRa APRS iGate на ESP32 | Приём/передача APRS, интеграция с aprs.fi | [GitHub](https://github.com/richonguzman/LoRa_APRS_iGate) |
+| **SpanCast** | Peer-to-peer ESP-NOW фреймворк | Упрощённая связь между ESP32/ESP8266 | [GitHub](https://github.com/HomeSpan/SpanCast) |
+
+### Инструменты и утилиты
+
+| Проект | Описание | Ключевые особенности | Ссылка |
+|--------|----------|---------------------|--------|
+| **ESP32 oscilloscope** | Осциллограф с веб-интерфейсом | Просмотр сигналов через браузер | [GitHub](https://github.com/s0lness/awesome-esp32) |
+| **ESP32 TCP Server** | TCP-сервер для управления с телефона | Интеграция с RoboRemo | [GitHub](https://github.com/hardcodedjoy/esp32-tcp-server-demo) |
+
+### Погодные станции
+
+| Проект | Описание | Ключевые особенности | Ссылка |
+|--------|----------|---------------------|--------|
+| **RainGauge** | Система мониторинга осадков на ESP32 | Измерение дождя, температуры, давления; MQTT | [GitHub](https://github.com/EasonNYC/RainGauge) |
+| **WeatherStation-ESP32-Sensor** | Беспроводная погодная станция с BME280 | Температура, давление, влажность | [GitHub](https://github.com/HarryVienna/WeatherStation-ESP32-Sensor) |
+| **ESP32-OLED-Weather** | Погодная станция с OLED-дисплеем и FreeRTOS | DHT11, BMP390, MQTT | [GitHub](https://github.com/TitaniumMonkey/ESP32-OLED-Weather-Intrument) |
+
+### Ресурсы для поиска проектов
+
+- **[awesome-esp32](https://github.com/s0lness/awesome-esp32)** — тщательно отобранные проекты, стоящие сборки/копирования. Организованы по категориям, с указанием совместимых устройств.
+- **[awesome-esp](https://github.com/agucova/awesome-esp)** — кураторский список проектов и кода для ESP8266/ESP32.
+- **[GitHub Topics: esp32](https://github.com/topics/esp32)** — тысячи публичных репозиториев с тегом ESP32.
+- **[Hackaday.io ESP32](https://hackaday.io/projects?tag=ESP32)** — проекты от сообщества мейкеров.
+- **[Instructables ESP32](https://www.instructables.com/circuits/esp32/projects/)** — пошаговые инструкции по сборке.
+
+---
 
 ## Публикации
 
